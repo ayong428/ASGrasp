@@ -1,2 +1,2 @@
-# ASGrasp_ICRA2024
+# ASGrasp
 Coming soon.
